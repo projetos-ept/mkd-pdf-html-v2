@@ -1,0 +1,5 @@
+{
+  "name": "StaticMD - Markdown to HTML/PDF Compiler",
+  "description": "A powerful real-time Markdown editor and compiler featuring visual themes (Modern, Sepia, Notebook), Mermaid diagrams, standalone HTML export, and high-quality PDF generation.",
+  "requestFramePermissions": []
+}
